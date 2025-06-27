@@ -1,9 +1,10 @@
-# medical-approvals-analysis
-medical approval analysis using excel 
-This project includes a data analysis of medical approvals using Excel to determine the percentage of rejected approvals and identify the reasons for rejection.
+# Medical-Approval-Notification-Time-Analysis
+This project focuses on analyzing patient notification times for medical approvals to identify delays and improve response speed.
 ## tools 
 - Excel
 - power BI
  ## result
- - 35% of requset are rejected
- - main reason is (ICD-10) code 
+ 43% of patients were informed within 20 minutes
+ •-12% of patients were informed within 60 minutes
+ •-30% of patients were informed after more than 60 minutes
+ •- 13% of patients completed their approval and did not require notification

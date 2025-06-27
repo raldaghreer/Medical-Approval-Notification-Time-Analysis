@@ -1,0 +1,101 @@
+Request_ID,Patient_ID,Diagnosis_Code (ICD-10),Diagnosis_Desc,Request_Date,Approval_Status,Reason_for_Rejection
+1001,P008,J45.909,"Asthma, unspecified",6/9/2025,Rejected,Pre-existing condition exclusion
+1002,P012,L29.9,"Pruritus, unspecified",1/4/2025,Approved,
+1003,P041,F32.9,"Depression, unspecified",4/3/2025,Approved,
+1004,P034,N39.0,Urinary tract infection,4/24/2025,Approved,
+1005,P014,L29.9,"Pruritus, unspecified",1/14/2025,Approved,
+1006,P025,J45.909,"Asthma, unspecified",5/21/2025,Approved,
+1007,P036,G43.909,"Migraine, unspecified",6/4/2025,Approved,
+1008,P040,E11.9,Type 2 Diabetes,1/26/2025,Approved,
+1009,P037,L29.9,"Pruritus, unspecified",5/1/2025,Rejected,Diagnosis not confirmed
+1010,P001,I10,Essential Hypertension,4/20/2025,Approved,
+1011,P003,L29.9,"Pruritus, unspecified",3/20/2025,Approved,
+1012,P018,F32.9,"Depression, unspecified",3/25/2025,Rejected,Not covered by policy
+1013,P022,J45.909,"Asthma, unspecified",1/4/2025,Rejected,Incomplete medical report
+1014,P012,K21.9,Gastro-esophageal reflux disease,3/27/2025,Approved,
+1015,P014,E11.9,Type 2 Diabetes,1/3/2025,Approved,
+1016,P029,K21.9,Gastro-esophageal reflux disease,6/19/2025,Approved,
+1017,P013,J45.909,"Asthma, unspecified",5/28/2025,Rejected,Diagnosis not confirmed
+1018,P043,N39.0,Urinary tract infection,6/24/2025,Approved,
+1019,P023,L29.9,"Pruritus, unspecified",4/24/2025,Approved,
+1020,P040,I10,Essential Hypertension,3/14/2025,Approved,
+1021,P036,I10,Essential Hypertension,4/9/2025,Approved,
+1022,P018,M79.1,Myalgia,6/4/2025,Rejected,Missing documentation
+1023,P035,N39.0,Urinary tract infection,5/6/2025,Approved,
+1024,P028,G43.909,"Migraine, unspecified",6/9/2025,Approved,
+1025,P014,F32.9,"Depression, unspecified",2/15/2025,Rejected,Pre-existing condition exclusion
+1026,P022,M79.1,Myalgia,1/16/2025,Approved,
+1027,P020,J45.909,"Asthma, unspecified",6/20/2025,Rejected,Incomplete medical report
+1028,P050,M54.5,Low Back Pain,1/5/2025,Rejected,Missing documentation
+1029,P030,G43.909,"Migraine, unspecified",2/12/2025,Approved,
+1030,P009,N39.0,Urinary tract infection,3/9/2025,Approved,
+1031,P007,J45.909,"Asthma, unspecified",6/28/2025,Approved,
+1032,P004,J45.909,"Asthma, unspecified",2/15/2025,Approved,
+1033,P003,J45.909,"Asthma, unspecified",2/2/2025,Rejected,Missing documentation
+1034,P033,M79.1,Myalgia,2/13/2025,Approved,
+1035,P003,M54.5,Low Back Pain,3/15/2025,Rejected,Treatment not approved
+1036,P017,M79.1,Myalgia,6/26/2025,Approved,
+1037,P030,F32.9,"Depression, unspecified",3/1/2025,Rejected,Diagnosis not confirmed
+1038,P005,M79.1,Myalgia,3/19/2025,Approved,
+1039,P015,N39.0,Urinary tract infection,5/14/2025,Approved,
+1040,P007,F32.9,"Depression, unspecified",5/31/2025,Rejected,Missing documentation
+1041,P014,F32.9,"Depression, unspecified",3/11/2025,Rejected,Treatment not approved
+1042,P026,L29.9,"Pruritus, unspecified",6/11/2025,Approved,
+1043,P040,N39.0,Urinary tract infection,6/16/2025,Approved,
+1044,P024,L29.9,"Pruritus, unspecified",4/6/2025,Approved,
+1045,P005,M79.1,Myalgia,1/7/2025,Approved,
+1046,P038,K21.9,Gastro-esophageal reflux disease,4/28/2025,Approved,
+1047,P009,G43.909,"Migraine, unspecified",5/11/2025,Approved,
+1048,P030,L29.9,"Pruritus, unspecified",5/9/2025,Rejected,Missing documentation
+1049,P017,I10,Essential Hypertension,5/16/2025,Approved,
+1050,P038,M54.5,Low Back Pain,2/16/2025,Approved,
+1051,P009,I10,Essential Hypertension,4/30/2025,Approved,
+1052,P009,J45.909,"Asthma, unspecified",6/14/2025,Approved,
+1053,P012,M54.5,Low Back Pain,5/21/2025,Approved,
+1054,P023,M79.1,Myalgia,4/30/2025,Rejected,Diagnosis not confirmed
+1055,P026,I10,Essential Hypertension,5/22/2025,Approved,
+1056,P029,L29.9,"Pruritus, unspecified",3/25/2025,Rejected,Treatment not approved
+1057,P006,N39.0,Urinary tract infection,1/4/2025,Approved,
+1058,P009,I10,Essential Hypertension,2/22/2025,Rejected,Treatment not approved
+1059,P008,E11.9,Type 2 Diabetes,5/16/2025,Approved,
+1060,P010,L29.9,"Pruritus, unspecified",4/20/2025,Approved,
+1061,P032,N39.0,Urinary tract infection,1/2/2025,Approved,
+1062,P050,E11.9,Type 2 Diabetes,1/28/2025,Approved,
+1063,P013,M54.5,Low Back Pain,4/2/2025,Approved,
+1064,P033,L29.9,"Pruritus, unspecified",4/13/2025,Approved,
+1065,P003,K21.9,Gastro-esophageal reflux disease,1/14/2025,Approved,
+1066,P043,J45.909,"Asthma, unspecified",6/21/2025,Rejected,Treatment not approved
+1067,P007,J45.909,"Asthma, unspecified",6/21/2025,Approved,
+1068,P007,M79.1,Myalgia,6/23/2025,Approved,
+1069,P044,L29.9,"Pruritus, unspecified",4/1/2025,Approved,
+1070,P016,J45.909,"Asthma, unspecified",1/16/2025,Rejected,Not covered by policy
+1071,P043,M79.1,Myalgia,1/26/2025,Approved,
+1072,P039,G43.909,"Migraine, unspecified",3/7/2025,Approved,
+1073,P041,M79.1,Myalgia,3/4/2025,Approved,
+1074,P040,M54.5,Low Back Pain,3/22/2025,Rejected,Treatment not approved
+1075,P010,M54.5,Low Back Pain,6/20/2025,Approved,
+1076,P023,E11.9,Type 2 Diabetes,2/15/2025,Rejected,Incomplete medical report
+1077,P028,J45.909,"Asthma, unspecified",2/1/2025,Rejected,Pre-existing condition exclusion
+1078,P029,L29.9,"Pruritus, unspecified",4/5/2025,Approved,
+1079,P041,N39.0,Urinary tract infection,6/30/2025,Approved,
+1080,P027,F32.9,"Depression, unspecified",3/19/2025,Rejected,Treatment not approved
+1081,P035,I10,Essential Hypertension,2/14/2025,Approved,
+1082,P018,F32.9,"Depression, unspecified",5/18/2025,Rejected,Diagnosis not confirmed
+1083,P005,K21.9,Gastro-esophageal reflux disease,5/26/2025,Approved,
+1084,P038,N39.0,Urinary tract infection,5/31/2025,Approved,
+1085,P043,G43.909,"Migraine, unspecified",3/31/2025,Approved,
+1086,P035,N39.0,Urinary tract infection,2/7/2025,Approved,
+1087,P049,E11.9,Type 2 Diabetes,4/11/2025,Approved,
+1088,P016,E11.9,Type 2 Diabetes,2/20/2025,Approved,
+1089,P033,F32.9,"Depression, unspecified",3/17/2025,Approved,
+1090,P037,J45.909,"Asthma, unspecified",4/9/2025,Approved,
+1091,P035,J45.909,"Asthma, unspecified",3/8/2025,Rejected,Diagnosis not confirmed
+1092,P038,F32.9,"Depression, unspecified",5/15/2025,Rejected,Treatment not approved
+1093,P009,N39.0,Urinary tract infection,1/26/2025,Approved,
+1094,P016,M79.1,Myalgia,6/6/2025,Rejected,Incomplete medical report
+1095,P049,L29.9,"Pruritus, unspecified",1/30/2025,Approved,
+1096,P047,J45.909,"Asthma, unspecified",6/21/2025,Approved,
+1097,P026,E11.9,Type 2 Diabetes,1/28/2025,Approved,
+1098,P044,E11.9,Type 2 Diabetes,1/3/2025,Approved,
+1099,P038,N39.0,Urinary tract infection,6/10/2025,Approved,
+1100,P020,N39.0,Urinary tract infection,2/2/2025,Approved,
